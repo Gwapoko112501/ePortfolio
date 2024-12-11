@@ -148,6 +148,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any questions, feedback, or suggestions, feel free to reach out:
 - **Name**: Hurley W. Banaag
-- **Email**: your-email@example.com
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
+- **Email**: banaag.hurley1125@gmail.com
+- **GitHub**: [https://github.com/Gwapoko112501](https://github.com/Gwapoko112501)
 - **LinkedIn**: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
