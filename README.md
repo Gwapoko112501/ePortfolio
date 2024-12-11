@@ -150,4 +150,3 @@ For any questions, feedback, or suggestions, feel free to reach out:
 - **Name**: Hurley W. Banaag
 - **Email**: banaag.hurley1125@gmail.com
 - **GitHub**: [https://github.com/Gwapoko112501](https://github.com/Gwapoko112501)
-- **LinkedIn**: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
